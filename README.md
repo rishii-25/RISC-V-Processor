@@ -15,7 +15,7 @@ roadmap: a working single-cycle core, verified, as the baseline the
 | 3. Hazard detection / forwarding | not started |
 | 4. I-cache / D-cache | not started |
 | 5. Branch prediction | not started |
-| 6. Verification & benchmarks | ongoing (Phase 1 tb only so far) |
+| 6. Verification & benchmarks | ongoing: Phase 1 tb + UVM ALU testbench ([verif/uvm_alu](verif/uvm_alu)) |
 | 7. Synthesis (Yosys/OpenSTA/OpenROAD) + FPGA | not started |
 
 ## Instruction set implemented
